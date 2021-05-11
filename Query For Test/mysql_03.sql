@@ -1,0 +1,2 @@
+SELECT state
+FROM customers
